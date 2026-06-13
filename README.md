@@ -1,5 +1,7 @@
 # 🐳 claude-sandbox - Run Your Projects Safely
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/aniktatripathy-claude-sandbox)
+
 ## 🚀 Getting Started
 
 Welcome to **claude-sandbox**! This application provides a safe, isolated Docker environment for running Claude Code on your projects. It helps you experiment and develop without risking your main system. Let’s look at how to download and run this software.
